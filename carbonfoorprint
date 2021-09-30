@@ -1,0 +1,22 @@
+<DOCTYPE html>
+<html lang = "en">
+
+
+	<head>
+	<meta charset = "utf-8"> 
+	<meta name = "descrption" content= "placeholder"/>
+	<meta name ="keyword" content = " placeholder ">
+		<title> Carbon foot print reduction </title>
+		<link href = "carbonfootPrint.css"  rel="StyleSheet"/>
+	<body>
+	
+	
+		<header>
+		<h1>Carbon Foot Print Reduction</h1>
+		
+		</header>
+		
+	</body>
+
+
+</html>
