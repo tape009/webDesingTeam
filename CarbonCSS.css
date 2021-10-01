@@ -1,6 +1,7 @@
 body
 {
-background-color:black;
+background-color:rgb(161, 224, 224);
+margin: 2em;
 	
 }
 header
@@ -10,5 +11,12 @@ header
 	padding: 25px;
 	margin-bottom:10px;
 	background-color:#ffffff;
+
+	margin: 2em;
+
+}
+nav
+{
+	
 
 }
