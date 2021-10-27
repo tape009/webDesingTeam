@@ -1,17 +1,27 @@
 body
 {
+height: 1500px;
+width: 1300px;
 background-color:rgb(161, 224, 224);
 margin: 2em;
+font-size: 1.3em;
 
 }
 header
 {
 	height: 300px;
-	width:1250px;
+	width:1300px;
 	padding: 25px;
 	margin-bottom:10px;
 	background-color:#ffffff;
 
 	margin: 2em;
+;
+}
+p
+
+{
+
+	font-size: 1.7em;
 
 }
