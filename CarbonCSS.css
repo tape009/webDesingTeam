@@ -1,6 +1,6 @@
 *
 {
-	margin: 2%;
+	margin: 5px;
 	padding: 0;
 }
 body
@@ -13,8 +13,7 @@ header
 {
 	height: 300px;
 	width:1250px;
-	padding: 25px;
-	margin-bottom:10px;
+	
 	background-color:#ffffff;
 	
 }
