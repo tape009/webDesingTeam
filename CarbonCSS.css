@@ -1,6 +1,12 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
 body
 {
-background-color:#A6ECEA
+background-color:#A6ECEA;
+-webkit-text-size-adjust: 100%;
 	
 }
 header
@@ -10,5 +16,8 @@ header
 	padding: 25px;
 	margin-bottom:10px;
 	background-color:#ffffff;
-
+	
 }
+
+
+
