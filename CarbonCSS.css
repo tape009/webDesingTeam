@@ -1,6 +1,6 @@
 *
 {
-	margin: 0;
+	margin: 5px;
 	padding: 0;
 }
 body
@@ -20,6 +20,11 @@ header
 p
 {
 	color: black ;
+}
+nav
+{
+	margin: 0;
+	color:#e65b5b;
 }
 
 
