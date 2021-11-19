@@ -3,20 +3,37 @@
 	margin: 0;
 	padding: 0;
 }
+
 body
 {
-background-color:#e65b5b;
+background-color:#CFCFCF;
 -webkit-text-size-adjust: 100%;
-	
 }
+
+main
+{
+margin-top: 25px;
+background-color:#FFFFFF;
+}
+
 header
 {
-	height: 300px;
+	height: 100px;
 	width:1250px;
+	margin-top: 25px;
 	
 	background-color:#ffffff;
 	
 }
+
+footer
+{
+	background-color:#979797;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	margin-top: 25px;
+}
+
 p
 {
 	color: black ;
