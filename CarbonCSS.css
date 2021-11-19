@@ -16,24 +16,28 @@ main
 {
 	margin-top: 25px;
 	background-color:#FFFFFF;
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: 10em;
+	margin-left: 10em;
+	padding: 1em;
+	margin-top: 1em;
 }
 
 header
 {
 	margin-top: 25px;
 	background-color:#FFFFFF;
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: 10em;
+	margin-left: 10em;
+	padding: 1em;
+	
 	
 }
 
 footer
 {
+	margin-top: 1;
 	background-color:#979797;
-	padding-top: 20px;
-	padding-bottom: 5px;
+	padding: 1em;
 
 }
 
@@ -43,8 +47,7 @@ p
 }
 nav
 {
-	margin: 10px;
-	color:#e65b5b;
+
 }
 
 
