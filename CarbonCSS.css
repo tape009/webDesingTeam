@@ -1,6 +1,6 @@
 *
 {
-	margin: 5px;
+	margin: 0px;
 	padding: 0;
 	font-family: 'Courier New', Courier, monospace;
 }
@@ -27,6 +27,21 @@ nav
 	margin: 0;
 	color:#e65b5b;
 }
+.mainpg
+{
+	text-align: center;
+	font-size: 1.2em;
+	margin: 2rem;
+	margin-left: 6em;
+	margin-right: 6em;
+}
+.eh
+{
+	margin: 2em;
+	margin-left: 6em;
+	margin-right: 6em;
+}
+
 
 
 
