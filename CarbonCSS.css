@@ -27,16 +27,18 @@ header
 {
 	margin-top: 25px;
 	background-color:#FFFFFF;
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: 10em;
+	margin-left: 10em;
+	padding: 1em;
+	
 	
 }
 
 footer
 {
+	margin-top: 1;
 	background-color:#979797;
-	padding-top: 20px;
-	padding-bottom: 5px;
+	padding: 1em;
 
 }
 
@@ -44,11 +46,7 @@ p
 {
 	color: black ;
 }
-nav
-{
-	
 
-}
 .mainpg
 {
 	text-align: center;
@@ -59,6 +57,7 @@ nav
 }
 .carbonClass
 {
+
 	margin: 2em;
 	margin-left: 6em;
 	margin-right: 6em;
@@ -74,21 +73,7 @@ nav
 		margin-left: 3rem;
 		font-size: .7rem;
 	}
-}
 
-
-
-@media screen and (max-width: 300px)
-{
-	main
-	{	
-		margin-top: 25px;
-		background-color:#FFFFFF;
-		margin-right: 1rem;
-		margin-left: 1rem;
-		font-size: .9rem;
-	}
-}
 
 
 
