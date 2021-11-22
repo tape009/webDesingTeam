@@ -50,14 +50,13 @@ p
 .mainpg
 {
 	text-align: center;
-	font-size: 1.2em;
+	font-size: 1.em;
 	margin: 2rem;
 	margin-left: 6em;
 	margin-right: 6em;
 }
 .carbonClass
 {
-
 	margin: 2em;
 	margin-left: 6em;
 	margin-right: 6em;
@@ -73,8 +72,38 @@ p
 		margin-left: 3rem;
 		font-size: .7rem;
 	}
+	header
+	{	
+		margin-top: 25px;
+		background-color:#FFFFFF;
+		margin-right: 3rem;
+		margin-left: 3rem;
+		font-size: .7rem;
+	}
+	
+}
 
 
 
 
+@media screen and (max-width: 300px)
+{
+	main
+	{	
+		margin-top: 25px;
+		background-color:#FFFFFF;
+		margin-right: 1rem;
+		margin-left: 1rem;
+		font-size: .9rem;
+	}
+	
+	header
+	{	
+		margin-top: 25px;
+		background-color:#FFFFFF;
+		margin-right: 1rem;
+		margin-left: 1rem;
+		font-size: .9rem;
+	}
+}
 
