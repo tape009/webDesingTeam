@@ -9,7 +9,7 @@ body
 	background-image: url("Images/Background.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: inherit inherit;
+	background-size: inherit;
 	-webkit-text-size-adjust: 100%;
 }
 
@@ -75,7 +75,7 @@ p
 	margin-right: 6em;
 }
 
-@media screen and (max-width: 600px)
+@media screen and (max-width: 850px)
 {
 	main
 	{	
@@ -109,7 +109,7 @@ p
 		background-color:#FFFFFF;
 		margin-right: 1rem;
 		margin-left: 1rem;
-		font-size: .9rem;
+		font-size: .7rem;
 	}
 
 	header
