@@ -1,5 +1,3 @@
-
-    
 </html><!doctype html>
 <html lang="en">
     <head>
@@ -57,6 +55,45 @@
 				Curabitur leo odio, iaculis vel faucibus non, rutrum luctus nunc. Nulla tellus lectus, pulvinar non venenatis quis, dictum sed massa. Donec eu enim tellus. Sed ut blandit ipsum. Sed fermentum vitae risus vitae lacinia. Mauris in dui massa. Donec eu lectus pellentesque, molestie tortor vitae, commodo dui. Nunc laoreet volutpat orci, a pellentesque mi placerat at.
 				
 				Aliquam egestas malesuada dui, eget mollis libero scelerisque id. Sed in tincidunt nisi. Fusce a tortor eleifend, egestas dolor sollicitudin, pretium magna. Suspendisse ac tellus at augue pulvinar aliquet. Mauris bibendum erat lectus. Cras semper enim sed lacus consectetur pellentesque. Fusce hendrerit, lacus at sagittis commodo, justo dui finibus metus, ut luctus enim augue quis est. Morbi in nunc velit. Quisque in libero sit amet ipsum maximus semper elementum ut justo. Aenean ultricies ante nec lorem congue volutpat.<p>
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="..." class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>First slide label</h5>
+        <p>Some representative placeholder content for the first slide.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Second slide label</h5>
+        <p>Some representative placeholder content for the second slide.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Third slide label</h5>
+        <p>Some representative placeholder content for the third slide.</p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+                
 		</div>
 	</main>
 		
