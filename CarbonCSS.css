@@ -21,7 +21,7 @@ main
 	margin-left: 10em;
 	line-height: 2em;
 	padding: 2em;
-	border: 12px solid #c5e6c6;
+	border: 12px solid #98bf59;
 	margin-bottom: 1em;
 }
 
@@ -39,7 +39,7 @@ header
 	margin-right: 10em;
 	margin-left: 10em;
 	padding: 1em;
-	border: 12px solid #c5e6c6;
+	border: 12px solid #98bf59;
 	
 	
 }
@@ -101,7 +101,7 @@ p
 
 
 
-@media screen and (max-width: 300px)
+@media screen and (max-width: 400px)
 {
 	main
 	{	
