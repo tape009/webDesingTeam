@@ -1,7 +1,8 @@
 *
 {
-	font-family: 'Roboto', Courier, monospace;
-	
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto';
 }
 
 body
@@ -63,7 +64,7 @@ p
 .mainpg
 {
 	text-align: center;
-	font-size: 1.2em;
+	font-size: 1.em;
 	margin: 2rem;
 	margin-left: 6em;
 	margin-right: 6em;
@@ -83,6 +84,7 @@ p
 		margin-right: 3rem;
 		margin-left: 3rem;
 		font-size: .7rem;
+		padding: 1em;
 	}
 
 	header
@@ -99,14 +101,11 @@ p
 	}
 }
 
-
-
 @media screen and (max-width: 400px)
 {
 	main
 	{	
 		margin-top: 25px;
-		background-color:#FFFFFF;
 		margin-right: 1rem;
 		margin-left: 1rem;
 		font-size: .7rem;
@@ -115,10 +114,10 @@ p
 	header
 	{	
 		margin-top: 25px;
-		background-color:#FFFFFF;
 		margin-right: 1rem;
 		margin-left: 1rem;
 		font-size: .9rem;
+    padding: 1em;
 	}
 
 	body
