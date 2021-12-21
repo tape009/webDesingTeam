@@ -5,6 +5,20 @@
 	font-family: 'Roboto';
 }
 
+.slideThing 
+{
+	width: 140px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+.carPic
+{
+	float: right;
+	
+}
+
 body
 {
 	background-image: url("Images/Background.png");
@@ -156,7 +170,7 @@ footer
 		margin-right: 1rem;
 		margin-left: 1rem;
 		font-size: .9rem;
-    padding: 1em;
+    	padding: 1em;
 	}
 
 	body
