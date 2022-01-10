@@ -17,6 +17,11 @@ h2
 	margin-left: auto;
 	
 }
+.lefts
+{
+	float:right;
+	margin: 0 10 10 0 ;
+}
 
 .carPic
 {
@@ -75,4 +80,11 @@ footer
 		font-size: .75rem;
 		padding: 1vh;
 	}
+	.lefts
+{
+	float:right;
+	margin: 0 10 10 0 ;
+	display: none;
+}
+	
 }
