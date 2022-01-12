@@ -20,7 +20,7 @@ h2
 .lefts
 {
 	float:right;
-	margin: 0 10 10 0 ;
+	padding: 0 30 0 30 ;
 }
 
 .carPic
@@ -72,15 +72,16 @@ footer
 {
 	background:rgba(255, 255, 255, .75);
 }
-@media screen and (max-width: 1155px)
-{
+
+
+@media screen and (max-width: 1158px){
 	.smallPic
 	{
-	display: none;
-	
-	}	
-}
+		display: none;
+	}
 
+}
+	
 
 
 @media screen and (max-width: 992px)
@@ -92,8 +93,8 @@ footer
 	}
 	.lefts
 {
-	float:right;
-
+	
+	
 	display: none;
 }
 	
