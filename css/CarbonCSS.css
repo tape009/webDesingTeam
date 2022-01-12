@@ -72,6 +72,16 @@ footer
 {
 	background:rgba(255, 255, 255, .75);
 }
+@media screen and (max-width: 1155px)
+{
+	.smallPic
+	{
+	display: none;
+	
+	}	
+}
+
+
 
 @media screen and (max-width: 992px)
 {
@@ -83,7 +93,7 @@ footer
 	.lefts
 {
 	float:right;
-	margin: 0 10 10 0 ;
+
 	display: none;
 }
 	
