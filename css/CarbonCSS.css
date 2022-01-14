@@ -10,26 +10,11 @@ h2
 	margin-bottom: 1vh;
 }
 
-.slideThing 
-{
-	width: 140px;
-	margin-right: auto;
-	margin-left: auto;
-	
-}
-
-.carPic
-{
-	float: right;
-	
-}
-
 body
 {
 	background-image: url("../Images/Background.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: inherit;
+ 	background-attachment: fixed;
+  	background-size: cover;
 }
 
 header
@@ -63,9 +48,10 @@ footer
 	background-color: rgb(47, 79, 54);
 }
 
+
 .navbar-custom 
 {
-	background:rgba(255, 255, 255, .75);
+	background:rgba(255, 255, 255, 0.75);
 }
 
 @media screen and (max-width: 992px)
