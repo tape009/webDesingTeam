@@ -11,23 +11,11 @@ h2
 	margin-bottom: 1vh;
 }
 
-.slideThing 
-{
-	width: 140px;
-	margin-right: auto;
-	margin-left: auto;
-	
-}
+/*Sets the properties of images*/
 .lefts
 {
 	float:right;
 	padding: 0 30 0 30 ;
-}
-
-.carPic
-{
-	float: right;
-	
 }
 
 body
@@ -63,27 +51,21 @@ nav
 	font-size: 1.25em;
 }
 
-footer
-{
-	padding: 2em;
-	background-color: rgb(47, 79, 54);
-}
-
+/*Sets transparency of the webpage.*/
 .navbar-custom 
 {
 	background:rgba(255, 255, 255, .75);
 }
 
-
-@media screen and (max-width: 1158px){
+/*Changes elements of the webpage based on screen size*/
+@media screen and (max-width: 1158px)
+{
 	.smallPic
 	{
 		display: none;
 	}
 
 }
-	
-
 
 @media screen and (max-width: 992px)
 {
@@ -92,11 +74,10 @@ footer
 		font-size: .75rem;
 		padding: 1vh;
 	}
+	
 	.lefts
-{
-	
-	
+	{
 	display: none;
-}
+	}
 	
 }
