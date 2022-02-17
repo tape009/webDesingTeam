@@ -91,9 +91,15 @@ iframe
 	{
 	display: none;
 	}
-	.video
-	{
-		display:none;
-	}
+
 	
 }
+@media screen and (max-width: 1129px)
+{
+.video
+{
+	display: none;
+	
+}
+}
+
