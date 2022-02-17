@@ -73,25 +73,24 @@ footer
 .footerLinks
 {
 	font-size: small;
-
-	}
-	a:link 
-	{
-		color: rgb(255, 255, 255);
-		font-size: 1em;
-	}
-
-	a:visited 
-	{
-		color: rgb(110, 168, 127);
-	}
-
-	a:hover 
-	{
-		color: rgb(179, 247, 177) !important;
-		font-weight: bold;
-	}
 }
+
+a:link 
+{
+	color: rgb(255, 255, 255);
+}
+
+a:visited 
+{
+	color: rgb(110, 168, 127);
+}
+
+a:hover 
+{
+	color: rgb(179, 247, 177) !important;
+	font-weight: bold;
+}
+
 
 /*Changes elements of the webpage based on screen size*/
 @media screen and (max-width: 1158px)
