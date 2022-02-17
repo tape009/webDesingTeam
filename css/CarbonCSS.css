@@ -1,3 +1,4 @@
+
 *
 {
 	margin: 0;
@@ -10,6 +11,13 @@ h2
 	margin-bottom: 1vh;
 }
 
+h3
+{
+	color:#ffffff;
+	font-size: 1.75em;
+}
+
+/*Sets the properties of images*/
 .lefts
 {
 	float:right;
@@ -50,26 +58,50 @@ nav
 
 footer
 {
-	padding: 2em;
-	background-color: rgb(47, 79, 54);
+	padding: 1.5rem 10vw .5rem 10vw;
+	background-color: #416142;
+	border-top: 5px solid #344b38;
 }
 
-
+/*Sets transparency of the webpage's navbar.*/
 .navbar-custom 
 {
 	background:rgba(255, 255, 255, 0.75);
 }
 
+/*sets link color depending on situation*/
+.footerLinks
+{
+	font-size: small;
 
-@media screen and (max-width: 1158px){
+	}
+	a:link 
+	{
+		color: rgb(255, 255, 255);
+		font-size: 1em;
+	}
+
+	a:visited 
+	{
+		color: rgb(110, 168, 127);
+	}
+
+	a:hover 
+	{
+		color: rgb(179, 247, 177) !important;
+		font-weight: bold;
+	}
+}
+
+/*Changes elements of the webpage based on screen size*/
+@media screen and (max-width: 1158px)
+{
 	.smallPic
 	{
 		display: none;
 	}
 
 }
-	
-
 
 @media screen and (max-width: 992px)
 {
@@ -78,11 +110,20 @@ footer
 		font-size: .75rem;
 		padding: 1vh;
 	}
+
+	h3
+	{
+	font-size: 1rem;
+	}
+
+	a:link 
+	{
+	font-size: .75rem;
+	}
+	
 	.lefts
-{
-	
-	
+	{
 	display: none;
-}
+	}
 	
 }
