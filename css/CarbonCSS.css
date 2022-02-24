@@ -50,6 +50,18 @@ nav
   	width: 100%;
 	font-size: 1.25em;
 }
+video
+{
+	text-align: center;
+}
+.clear
+{
+	clear:both;
+}
+iframe
+{
+	padding-right: 1.5em;
+}
 
 
 /*Sets transparency of the webpage.*/
@@ -80,5 +92,15 @@ nav
 	{
 	display: none;
 	}
+
 	
 }
+@media screen and (max-width: 1129px)
+{
+.video
+{
+	display: none;
+	
+}
+}
+
