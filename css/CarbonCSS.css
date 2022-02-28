@@ -85,7 +85,7 @@ footer
 
 .footer a:hover
 {
-	color: rgb(179, 247, 177) !important;
+	color: rgb(179, 247, 177);
 	font-weight: bold;
 }
 
