@@ -98,6 +98,10 @@ a:hover
 	{
 		display: none;
 	}
+	.video 
+	{
+		display: none;
+	}
 
 }
 
@@ -124,4 +128,24 @@ a:hover
 	display: none;
 	}
 	
+}
+@media screen and (max-width: 645px)
+{
+	.None{
+		display: none ;
+	}
+	
+	table{
+		font-size: .75rem;
+	}
+}@media screen and (max-width: 370px)
+{
+	
+	
+	table{
+		font-size: .48rem;
+		table-layout:  fixed  ;
+		width: 60px ;
+		
+	}
 }
