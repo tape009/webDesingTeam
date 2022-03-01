@@ -41,7 +41,7 @@ header
 main
 {
 	background-color:#ffffff;
-	margin: 1vw 15vw 5vw 15vw;
+	margin: 1vw 15vw 1vw 15vw;
 	line-height: 2rem;
 	padding: 2rem;
 	border: 5px solid #c5e6c6;
@@ -57,7 +57,7 @@ nav
 
 footer
 {
-	padding: 1.5rem 10vw 1.5rem 10vw;
+	padding: 1.5rem 10vw;
 	background-color: #416142;
 	border-top: 5px solid #344b38;
 }
@@ -68,28 +68,26 @@ footer
 	background:rgba(255, 255, 255, 0.75);
 }
 
-/*sets link color depending on situation*/
-.footerLinks
+.footer
 {
 	font-size: small;
 }
 
-a:link 
+.footer a:link
 {
 	color: rgb(255, 255, 255);
 }
 
-a:visited 
+.footer a:visited
 {
 	color: rgb(110, 168, 127);
 }
 
-a:hover 
+.footer a:hover
 {
-	color: rgb(179, 247, 177) !important;
+	color: rgb(179, 247, 177);
 	font-weight: bold;
 }
-
 
 /*Changes elements of the webpage based on screen size*/
 @media screen and (max-width: 1158px)
