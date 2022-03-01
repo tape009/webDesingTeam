@@ -97,6 +97,10 @@ footer
 	{
 		display: none;
 	}
+	.video 
+	{
+		display: none;
+	}
 
 }
 
@@ -124,3 +128,25 @@ footer
 	}
 	
 }
+@media screen and (max-width: 645px)
+{
+	.None{
+		display: none ;
+	}
+	
+	table{
+		font-size: .75rem;
+	}
+}
+@media screen and (max-width: 370px)
+{
+	
+	/* make the table stay at a fixed size when at this witdth*/
+	table{
+		font-size: .48rem;
+		table-layout:  fixed  ;
+		width: 60px ;
+		
+	}
+}
+
