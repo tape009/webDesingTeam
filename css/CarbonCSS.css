@@ -140,7 +140,7 @@ footer
 @media screen and (max-width: 370px)
 {
 	
-	
+	/* make the table stay at a fixed size when at this witdth*/
 	table{
 		font-size: .48rem;
 		table-layout:  fixed  ;
