@@ -41,7 +41,7 @@ header
 main
 {
 	background-color:#ffffff;
-	margin: 1vw 15vw 1vw 15vw;
+	margin: 1vw 15vw 0 15vw;
 	line-height: 2rem;
 	padding: 2rem;
 	border: 5px solid #c5e6c6;
@@ -60,6 +60,7 @@ footer
 	padding: 1.5rem 10vw;
 	background-color: #416142;
 	border-top: 5px solid #344b38;
+	margin-top: 1vw;
 }
 
 /*Sets transparency of the webpage's navbar.*/
@@ -85,7 +86,7 @@ footer
 
 .footer a:hover
 {
-	color: rgb(179, 247, 177) !important;
+	color: rgb(179, 247, 177);
 	font-weight: bold;
 }
 
