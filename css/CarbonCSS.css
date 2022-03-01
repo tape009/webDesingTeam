@@ -144,7 +144,7 @@ footer
 		font-size: .75rem;
 	}
 }
-@media screen and (max-width: 370px)
+@media screen and (max-width: 430px)
 {
 	
 	/* make the table stay at a fixed size when at this witdth*/
